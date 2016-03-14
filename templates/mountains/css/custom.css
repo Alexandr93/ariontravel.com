@@ -1,0 +1,39 @@
+/* Copyright (C) YOOtheme GmbH, http://www.gnu.org/licenses/gpl.html GNU/GPL */
+
+/*
+ * Custom Style Sheet - Use this file to style your content
+ */
+ 
+ /* Fullscreen image
+ ========================================================================== */
+#page{
+  background: url(../images/mountains.jpg) no-repeat center center fixed ;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+}
+
+#top-b, #top-a , #main, #bottom-a{
+background-color:rgba(255, 255, 255, 0.9);
+}
+#toolbar{
+color:#FFF;
+}
+#block-footer{
+background-color:#333333;
+}
+.licinfo {
+color: #00AFF2;
+text-align:center;
+}
+.licinfo a, .licinfo a:hover {
+color: #00AFF2;
+font-weight:bolder;
+}
+#bottom-b, .module .module-title{
+background-color:#315E75;
+color:#FFFFFF;
+
+}
+
