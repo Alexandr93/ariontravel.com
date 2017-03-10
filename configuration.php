@@ -4,7 +4,7 @@ class JConfig {
 	public $offline_message = 'Сайт закрыт на техническое обслуживание.<br /> Пожалуйста, зайдите позже.';
 	public $display_offline_message = '1';
 	public $offline_image = '';
-	public $sitename = 'ariontravel';
+	public $sitename = 'alexgoncharov.pp.ua';
 	public $editor = 'jce';
 	public $captcha = '0';
 	public $list_limit = '20';
@@ -13,9 +13,9 @@ class JConfig {
 	public $debug_lang = '0';
 	public $dbtype = 'mysqli';
 	public $host = 'localhost';
-	public $user = 'root';
-	public $password = '';
-	public $db = 'arion';
+	public $user = 'u798447758_alex';
+	public $password = '1q2w3e4r';
+	public $db = 'u798447758_arion';
 	public $dbprefix = 'bhzj6_';
 	public $live_site = '';
 	public $secret = 'mkoN1H9hfZ8z4I3O';
